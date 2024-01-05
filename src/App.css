@@ -1,0 +1,34 @@
+body{
+  background-color: #fffafb;
+}
+*{padding:0;
+margin:0;
+box-sizing: border-box;}
+
+.hero-banner-img{
+  position:absolute;
+  top:0;
+  
+  right:40px;
+  width:700px;
+  height:900px;
+  margin-top: -330px;
+}
+.search-btn{
+  color:#ff2625;
+  border:1px solid #ff2625;
+}
+.search-btn{
+  color:white;
+
+}
+.exercise-card{
+  width:400px;
+  height: 400px;
+  background-color: #fff;
+  text-decoration: none;
+}
+.exercise-card:hover{
+  transform: scale(1.1,  1.1);
+ 
+}
